@@ -76,7 +76,7 @@ const AboutSection: React.FC = () => {
             </h2>
             
             <p className="text-lg text-muted-foreground mb-8">
-              Fundada em 2020, a Customizely nasceu com a missão de ajudar pessoas a criarem
+              Fundada em 2024, a Customizely nasceu com a missão de ajudar pessoas a criarem
               produtos personalizados de forma fácil e intuitiva. Nosso objetivo é proporcionar
               uma experiência incrível de personalização, com produtos de alta qualidade e
               preços justos.
