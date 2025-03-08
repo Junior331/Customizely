@@ -127,7 +127,7 @@ const Footer: React.FC = () => {
         {/* Bottom Bar */}
         <div className="pt-8 mt-8 border-t border-border/50 text-sm text-muted-foreground">
           <div className="flex flex-col md:flex-row justify-between items-center">
-            <p>© 2025 Customizely. Todos os direitos reservados.</p>
+            <p>©2025 Customizely. Todos os direitos reservados.</p>
             <div className="flex space-x-4 mt-4 md:mt-0">
               <AnimatedLink href="/termos" className="text-muted-foreground">Termos de Uso</AnimatedLink>
               <AnimatedLink href="/privacidade" className="text-muted-foreground">Política de Privacidade</AnimatedLink>
